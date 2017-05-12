@@ -1,0 +1,24 @@
+.lannister {
+  background-repeat: no-repeat;
+  background-color: black;
+  text-align: center;
+
+  color: #dddddd;
+}
+h2 {
+  font-family: Century Schoolbook L;
+  color: #F15A29
+}
+h3 {
+  font-family: Century Schoolbook L;
+  color: #F15A29
+}
+.bolton {
+
+}
+#player-1 {
+  width: 50%;
+}
+#player-2 {
+  width: 50%;
+}
