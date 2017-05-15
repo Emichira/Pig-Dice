@@ -5,24 +5,30 @@
   color: #F15A29;
   margin-bottom: 0;
 }
+
 h2 {
   font-family: Century Schoolbook L;
   color: #F15A29;
 }
+
 h3 {
   font-family: Century Schoolbook L;
   color: #F15A29
 }
+
 .bolton {
   background-image: url(../image/tyron.jpg);
   color: white;
 }
+
 #player-1 {
   width: 50%;
 }
+
 #player-2 {
   width: 50%;
 }
+
 .pic {
   background-image: url(../image/dices.jpg);
   background-repeat: no-repeat;
@@ -30,5 +36,5 @@ h3 {
   margin: 50px;
   margin-left: 200px;
 }
-.starks {
-}
+
+.starks {}
