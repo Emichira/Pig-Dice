@@ -1,37 +1,44 @@
 .lannister {
   background-repeat: no-repeat;
-  background-color: #F15A29;
+  background-color: #5554FF;
   text-align: center;
   color: #F15A29;
   margin-bottom: 0;
-  font-family: Century Schoolbook L;
+  font-family: monospace;
 }
+
 h1 {
   font-size: 50px;
   color: white;
 }
+
 h2 {
   font-family: Century Schoolbook L;
   color: #F15A29;
 }
+
 h3 {
   font-family: Century Schoolbook L;
   color: #F15A29
 }
+
 .bolton {
   background-image: url(../image/dices.jpg);
   background-repeat: no-repeat;
   margin-left: 200px;
-  color: yellow;
+  color: white;
   padding-left: 150px;
   padding-bottom: 50px;
 }
+
 #player-1 {
   width: 50%;
 }
+
 #player-2 {
   width: 50%;
 }
+
 .pic {
   background-image: url(../image/tyron.jpg);
   background-repeat: no-repeat;
@@ -39,18 +46,23 @@ h3 {
   margin-left: 200px;
   padding-left: 60px;
 }
+
 .starks {
   color: black;
 }
+
 .daenerys {
   float: left;
 }
+
 .game-of-thrones {
   color: black;
 }
+
 .backgroundkala {
   background-color: #dddddd;
 }
+
 #play {
   padding: 10px;
   width: 100px;
@@ -60,6 +72,7 @@ h3 {
   font-family: monospace;
   font-stretch: extra-expanded;
 }
+
 #new-game {
   padding: 10px;
   width: 200px;
@@ -69,4 +82,7 @@ h3 {
   font-size: 20px;
   font-family: monospace;
   font-stretch: extra-expanded;
+}
+img {
+  padding-top: 30px;
 }
