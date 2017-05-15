@@ -1,13 +1,21 @@
 Pig - Dice Game
 
-Pig dice game
+The Basics of Pig-Dice
+Players
+Best with 2, can work with more. (The downtime between your turns grows longer with each additional player.)
+Equipments
+1 six-sided die, score sheet, pen or pencil.
+Goal
+Be the first player to reach 100 points.
+GamePlay
 
-This is a command-line implementation of Pig. The rules of the game as explaned on Wikipedia are:s
+  On a turn, a player rolls the die repeatedly until either:
 
-Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
+    A 1 is rolled
+    The player chooses to hold (stop rolling)
 
-If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues. If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn. The first player to score 100 or more points wins.
+  If a 1 is rolled, that player's turn ends and no points are earned.
 
-From: https://en.wikipedia.org/wiki/Pig_(dice_game)
-
-This implementation is a single player game against a computer player.
+If the player chooses to hold, all of the points rolled during that turn are added to his or her score.
+Game End
+When a player reaches a total of 100 or more points, the game ends and that player is the winner.
